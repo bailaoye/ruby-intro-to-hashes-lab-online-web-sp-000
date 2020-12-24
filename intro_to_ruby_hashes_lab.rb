@@ -10,7 +10,7 @@ end
 
 def monopoly
 	monopoly = {
-		hash => {}
+		hash = {}
 	}
 
 end
