@@ -41,7 +41,7 @@ def monopoly_with_fourth_tier
 		railroads: {
 			pieces: 4,
 			names: {
-				
+
 			}
 		}
 	}
